@@ -1,4 +1,6 @@
-MTA Project
+MTA Project: what are the most frequented MTA subway stations, by time of day?
 
-Analysis of open data from MTA turnstiles.
-<a href="http://web.mta.info/developers/turnstile.html" target="_blank">Click here</a> to download data for use in iPython Notebook analysis.
+iPython Notebook file includes code used in analysis of MTA turnstile data.  
+
+Data source: <a href="http://web.mta.info/developers/turnstile.html" target="_blank">link</a>
+Write-up of analysis: <a href="http://cgerson.github.io/MTA-Turnstile-Analysis/" target="_blank">link</a>
